@@ -23,11 +23,11 @@ Urban cities make up the most total number of rides per city but the lowest aver
 
 ![Fig2](https://user-images.githubusercontent.com/57520471/162641123-25132b1a-68ae-4a13-8144-07d90b01068c.png)
 
-There outlier in the urban ride count data is West Angela. The average number of rides in rural cities is about 3 to 4 four times lower than the urban and suburban cities.
+The outlier in the urban ride count data is West Angela City. The average number of rides in rural cities is about 3 to 4 four times lower than the urban and suburban cities.
 
 ![Fig3](https://user-images.githubusercontent.com/57520471/162641133-c2edd691-b65d-4e43-87de-90821f39797a.png)
 
-No outliers in the data but the average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities. 
+There are no outliers in the ride fare data but the average fare for rides in the rural cities is about $11 which is $5 more per ride than the urban and suburban cities. 
 
 ![Fig4](https://user-images.githubusercontent.com/57520471/162641136-5e4bfa41-b71e-4a94-9945-2f1e3b60b150.png)
 
@@ -43,7 +43,7 @@ Urban cities make more than two thirds of the total number of rides and suburban
 
 ![Fig7](https://user-images.githubusercontent.com/57520471/162641180-bcf4d88d-3802-4cb8-a203-aeea9c50f2c2.png)
 
-Urban cities make up almost 90% of the total drivers and rural drivers make up less than 1.0% of the total drivers. 
+Urban cities make up almost 90.0% of the total drivers and rural drivers make up less than 1.0% of the total drivers. 
 
 ![pyber_summary](https://user-images.githubusercontent.com/57520471/162641314-26db0083-55ef-4283-9d51-44edd3a7d355.png)
 
@@ -57,9 +57,9 @@ Urban cities make up almost 90% of the total drivers and rural drivers make up l
 
 * Urban cities maintain the highest total fares and rural cities maintain the lowest total fares. 
 * In rural cities, total fare values have the highest peaks in the last two weeks of the month.
-* In the third week of March all cities experience a peak in total fare amounts.
+* In the third week of March all cities experience a peak in total fares.
 
 ## Summary
-* Even though rural cities make up the least about of total rides, they have the highest average fare value per ride. Riders in rural cities tend to travel farther distances therefore increasing their average fare rate. To help combat this discrepancy, the rate per mile in distances above 15 miles should be lowered. This would allow longer distances to be more affordable. 
-* Urban cities on the other hand make up the greatest number of total rides but pay the least average fare value per ride. The rate per mile in the first 15 miles should be higher. This would increase more profit on shorter rides. Also rates in metropolitan urban areas should be increased because of the higher demand. 
-* Drivers in urban cities make a significantly less in average fares per ride compared to drivers in suburban or rural cities. Drivers in urban cities also make significantly less in average fare per driver compared ($16.57) compared to the average fare per ride ($24.53). Also, the number of drivers in urban cities is 1.5 times more than the number of total rides. The number of drivers needed should be based on the demand (total rider amount). Therefore, the number of urban city drivers needs to be decreased because there should be more rides than drivers in order for the drivers to make a reasonable income. 
+* Even though rural cities make up the least amount of total rides, they have the highest average fare value per ride. Riders in rural cities tend to travel farther distances therefore increasing their average fare rate. To help solve this discrepancy, the fare rate per mile in distances above 15 miles should be lowered. This would allow longer distances to be more affordable. 
+* Urban cities on the other hand make up the greatest number of total rides but pay the least average fare value per ride. The rate per mile in the first 15 miles should be higher. This would increase more profit on shorter rides. Also rates in big metropolitan urban areas should be increased because of the higher demand. 
+* Drivers in urban cities make significantly less in average fares per ride compared to drivers in suburban or rural cities. Drivers in urban cities also make significantly less in average fare per driver ($16.57) compared to the average fare per ride ($24.53). Also, the number of drivers in urban cities is 1.5 times more than the number of total rides. The number of drivers actively working should be based on the demand (total rider amount). Therefore, the number of active urban city drivers needs to be decreased which would allow drivers be able to conduct more rides. The supply of the active drivers should correlate to the demand of the number of rides. This would allow drivers to complete more rides and thus increase their fares. 
